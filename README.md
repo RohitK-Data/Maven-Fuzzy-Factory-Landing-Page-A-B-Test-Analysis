@@ -71,8 +71,10 @@ The new landing page not only improved user engagement but also contributed to h
 
 
 ## Files Included
-- `Maven Fuzzy Factory AB Test Analysis.xlsx` — Full analysis, data model, and dashboard  
-- Dashboard preview — Visual summary of results  
+- `Maven Fuzzy Factory AB Test Analysis.xlsx` — Full Excel model, analysis, and dashboard  
+- `data/website_sessions.csv` — Session-level data  
+- `data/website_pageviews.csv` — Pageview-level data  
+- `data/orders.csv` — Order-level data 
 
 
 ## Key Takeaway
